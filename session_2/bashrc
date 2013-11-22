@@ -1,0 +1,10 @@
+#This file was created for changing standart .bashrc.
+#Now I offer you to use commands which are in the left column.
+#It can make you life easier.
+alias gd='git diff'
+alias gs='git status'
+alias ga='got add'
+alias gc='git commit'
+alias gl='git log --oneline'
+alias clean='rm -r *.pyc *.swp'
+alias cdw='cd ~/la/session_2/'
